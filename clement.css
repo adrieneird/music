@@ -1,0 +1,15 @@
+
+
+#clement video {
+    position: absolute;
+    width: 200px;
+    margin-left: 400px;
+    margin-top: 100px;
+  }
+
+#clement svg {
+    width: 800px;
+    position: absolute;
+    margin-top: 290px;
+    margin-left: -50px
+  }

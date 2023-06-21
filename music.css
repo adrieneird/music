@@ -1,0 +1,81 @@
+body {
+    width: 2656px;
+    height: 1494px;
+    margin: 0;
+    padding: 0;
+    background-color: #AAA;
+}
+
+.cadre {
+    position: absolute;
+}
+
+div#morgan {
+    top: 0px;
+    left: 0px;
+    width: 525px;
+    height: 1010px;
+}
+
+div#alexandre {
+    top: 910px;
+    left: 0px;
+    width: 560px;
+    height: 584px;
+}
+
+div#erwan {
+    top: 0px;
+    left: 525px;
+    width: 725px;
+    height: 470px;
+}
+
+div#loic {
+    top: 345px;
+    left: 525px;
+    width: 575px;
+    height: 795px;
+}
+
+div#theo {
+    top: 1030px;
+    left: 550px;
+    width: 1120px;
+    height: 464px;
+}
+
+div#clement {
+    top: 0px;
+    left: 925px;
+    width: 725px;
+    height: 1060px;
+}
+
+div#marlene {
+    top: 1000px;
+    left: 875px;
+    width: 795px;
+    height: 385px;
+}
+
+div#richard {
+    top: 0px;
+    left: 1650px;
+    width: 590px;
+    height: 780px;
+}
+
+div#guillaume {
+    top: 780px;
+    left: 1650px;
+    width: 590px;
+    height: 714px;
+}
+
+div#selena {
+    top: 0px;
+    left: 2240px;
+    width: 416px;
+    height: 1494px;
+}

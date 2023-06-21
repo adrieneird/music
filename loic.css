@@ -1,0 +1,43 @@
+div#loic #grid {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: repeat(22, 1fr);
+}
+
+div#loic #grid .carre {
+    width: 50px;
+    height: 50px;
+    margin:0;
+}
+
+div#loic #grid .bleu {
+    background-color: blue;
+}
+
+div#loic #grid .bleuciel {
+    background-color: lightblue;
+}
+div#loic #grid .marron {
+    background-color: brown;
+}
+div#loic #grid .gris {
+    background-color: grey;
+}
+div#loic #grid .rouge {
+    background-color: red;
+}
+div#loic #grid .beige {
+    background-color:beige;
+}
+div#loic #grid .noir {
+    background-color: black;
+}
+div#loic #grid .grisclaire {
+    background-color: lightgrey;
+}
+div#loic #grid .dents {
+    background-color: lightsalmon;
+}
+div#loic #grid .blanc {
+    background-color: white;
+}

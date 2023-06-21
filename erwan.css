@@ -1,0 +1,125 @@
+.erwan{
+  display: flex;
+  position: absolute;
+  display: flex;
+  top: 0px;
+  left: 525px;
+  width: 725px;
+  height: 470px;
+  background: linear-gradient(70deg, rgb(192, 255, 253), blue, rgb(122, 194, 225))
+}
+
+#erwan #tete{
+    z-index: 6;
+    position: absolute;
+    top: 100px;
+    left: 350px;
+    width: 200px;
+    height: 320px;
+    background-color: #ac7339;
+    border-radius:  40%;
+    transform: rotate(20deg);
+  }
+
+  #erwan  #epaule{
+    z-index: 2;
+    position: absolute;
+    top: 170px;
+    left: 130px;
+    width: 200px;
+    height: 200px;
+    background-color: #ff0000;
+    border-radius:  50%;
+    transform: rotate(20deg);
+  }
+  #erwan  #corne1{
+      position: absolute;
+      z-index: 5;
+      top: 130px;
+      left: 520px;
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+      box-shadow: 10px 10px 0 0 red;
+      transform: rotate(5deg);
+  }
+
+  #erwan  #corne2{
+    position: absolute;
+    z-index: 5;
+    top: 60px;
+    left: 480px;
+    width: 80px;
+    height: 120px;
+    border-radius: 50%;
+    box-shadow: 10px 10px 0 0 red;
+    transform: rotate(5deg);
+}
+
+#erwan #corne3{
+  position: absolute;
+  z-index: 5;
+  top: 90px;
+  left: 380px;
+  width: 80px;
+  height: 120px;
+  border-radius: 50%;
+  box-shadow: 10px 10px 0 0 red;
+  transform: rotate(120deg);
+}
+
+#erwan #corne4{
+  position: absolute;
+  z-index: 5;
+  top: 45px;
+  left: 400px;
+  width: 80px;
+  height: 120px;
+  border-radius: 50%;
+  box-shadow: 10px 10px 0 0 red;
+  transform: rotate(130deg);
+}
+
+#erwan #sourcil1{
+  position: absolute;
+  z-index: 7;
+  top: 180px;
+  left: 430px;
+  width: 30px;
+  height: 20px;
+  border-radius: 50%;
+  box-shadow: 10px 10px 0 0 rgb(7, 7, 7);
+  transform: rotate(220deg);
+}
+
+#erwan #sourcil2{
+  position: absolute;
+  z-index: 7;
+  top: 190px;
+  left: 480px;
+  width: 30px;
+  height: 20px;
+  border-radius: 50%;
+  box-shadow: 10px 10px 0 0 rgb(7, 7, 7);
+  transform: rotate(250deg);
+}
+#erwan #oeil1{
+  position: absolute;
+  z-index: 7;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: black;
+  top: 200px;
+  left: 430px;
+}
+#erwan #oeil2{
+  position: absolute;
+  z-index: 7;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: black;
+  top: 210px;
+  left: 460px;
+}

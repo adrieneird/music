@@ -1,0 +1,123 @@
+
+.alexandre_bouquet_bas{
+    position:absolute;
+    transform:rotate(90deg);
+    left:-50px;
+    top:240px;
+    z-index:-1;
+    height: 0;
+    width: 150px;
+    border-bottom: 200px solid #a89d32;
+    border-left: 70px solid transparent;
+    border-right: 70px solid transparent;
+}
+
+.alexandre_bouquet_milieu{
+    position:absolute;
+    transform:rotate(-90deg);
+    left:150px;
+    top:290px;
+    z-index:-1;
+    height: 0;
+    width: 130px;
+    border-bottom: 100px solid #a89d32;
+    border-left: 70px solid transparent;
+    border-right: 70px solid transparent;
+}
+
+.alexandre_bouquet_haut{
+    position:absolute;
+    left:180px;
+    top:290px;
+    border-bottom: 100px solid #f071b0;
+    border-left: 70px solid transparent;
+    border-right: 70px solid transparent;
+    height: 0;
+    transform:rotate(-90deg);
+    width: 260px;
+    z-index:2;
+}
+
+.alexandre_bras{
+    position:absolute;
+    top:120px;
+    left:-150px;
+    width:450px;
+    height:120px;
+    background:#362c0e;
+    transform:rotate(50deg);
+}
+
+.alexandre_fleurs{
+    position:absolute;
+    height:100px;
+    width:380px;
+    background:transparent;
+    transform:rotate(90deg);
+    left:280px;
+    top:290px;
+    
+}
+.alexandre_fleur1{
+    position:absolute;
+    width:100px;
+    height:100px;
+    top:10px;
+    background:red;
+    border-radius:0 0 50% 50%;
+    transform:rotate(-10deg);
+    
+}
+.alexandre_fleur2{
+    
+    position:absolute;
+    left:80px;
+    top:-10px;
+    width:100px;
+    height:100px;
+    background:white;
+    border-radius:0 0 50% 50%;
+}
+.alexandre_fleur3{
+    position:absolute;
+    left:150px;
+    top:20px;
+    z-index:-1;
+    width:100px;
+    height:100px;
+    background:red;
+    border-radius:0 0 50% 50%;
+    transform:rotate(10deg);
+    
+}
+.alexandre_fleur4{
+    position:absolute;
+    left:250px;
+     width: 100px;
+    height: 150px;
+    background: white;
+    -webkit-border-radius: 100px / 160px;
+    -moz-border-radius:    100px / 160px; 
+    border-radius:         100px / 160px;
+    transform:rotate(40deg);
+    z-index:-1;
+}
+.alexandre_main{
+    position:absolute;
+    left:110px;
+    top:250px;
+    height:170px;
+    width:170px;
+    background:#362c0e;
+    border-radius:50%;
+}   
+.alexandre_triangle_transparent{
+    position:absolute
+    display : inline-block;
+ height : 0;
+ width : 0;
+ border-top : 130px solid transparent;
+ border-left : 560px solid transparent;
+    
+} 
+

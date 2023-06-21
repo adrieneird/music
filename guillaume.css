@@ -1,0 +1,39 @@
+
+  .guillaume {
+    position: absolute;
+    width: 590px;
+    height: 714px;
+    top: 780px;
+    left: 1650px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .faisceau_guillaume {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom right, rgba(188, 5, 164, 0.5), rgba(255, 255, 255, 0));
+    pointer-events: none;
+    animation: faisceauAnimation 1s infinite;
+}
+
+@keyframes faisceauAnimation {
+    0% {
+        transform: scale(0);
+        opacity: 0;
+    }
+    50% {
+        transform: scale(1);
+        opacity: 1;
+    }
+    100% {
+        transform: scale(0);
+        opacity: 0;
+    }
+}
+
+  
+

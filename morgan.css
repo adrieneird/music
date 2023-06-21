@@ -1,0 +1,105 @@
+#morgan {
+    background-color: rgba(0,0,128,1);
+    z-index: -1;
+}
+
+#morgan_ponpon
+{
+    background-color: #2E8B57;
+    width: 400px;
+    height: 250px;
+    border-radius: 0 0 50% 50%;
+    position: absolute;
+    right: 0;
+}
+
+/* #morgan_manche {
+    background-color: #624a2e;
+    width: 61px;
+    height: 110px;
+    position: absolute;
+    right: 0;
+    top: 151px;
+    z-index: -1;
+} */
+
+#morgan_light {
+    background-color: white;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: 263px;
+    right: 45px;
+}
+
+#morgan_tete {
+    background-color: #f1c27d;
+    width: 174px;
+    height: 267px;
+    position: absolute;
+    border-radius: 50%;
+    top: 372px;
+    right: 75px;
+}
+
+#morgan_eye1 {
+    background-color: black;
+    width: 50px;
+    height: 30px;
+    position: absolute;
+    border-radius: 50%;
+    top: 450px;
+    right: 133px;
+}
+
+#morgan_eye2 {
+    background-color: black;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    border-radius: 50%;
+    top: 450px;
+    right: 77px;
+}
+
+#morgan_machoire {
+    background-color: #f1c27d;
+    width: 94px;
+    height: 120px;
+    position: absolute;
+    border-radius: 50%;
+    top: 542px;
+    right: 65px;
+}
+
+#morgan_cheveux1 {
+    background-color: black;
+    position: absolute;
+    width: 153px;
+    height: 344px;
+    top: 368px;
+    right: 172px;
+    z-index: 1;
+}
+
+#morgan_cheveux2 {
+    background-color: black;
+    position: absolute;
+    width: 113px;
+    height: 236px;
+    top: 368px;
+    right: 263px;
+    border-radius: 50% 0 0 0;
+}
+
+#morgan_corps {
+    background-color: gray;
+    position: absolute;
+    width: 526px;
+    height: 443px;
+    bottom: 0px;
+    right: 0;
+    border-radius: 50% 50% 0 0;
+    z-index: -1;
+}

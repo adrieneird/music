@@ -1,0 +1,37 @@
+#richard {
+    background-image: url(imageonline-co-pixelated.png);
+   background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#richard .bras{
+    width: 50px;
+    height: 200px;
+     background-color: rgba(217, 215, 196, 0.693);
+     position: absolute;
+     top: 550px;
+     left: 550px;
+}
+#richard .tete{
+    display: flex;
+ width: 160px;
+    height: 160px;
+      background-color: rgba(217, 215, 196, 0.693);
+    border-radius: 50%;
+    position: absolute;
+    top: 400px;
+    left: 500px;
+    background-image: url(965d9dbbbcd93bd.png);
+     background-repeat: no-repeat;
+  background-size: cover;
+
+}
+#richard .yeux{
+     width: 40px;
+    height: 40px;
+      background-color: rgba(255, 255, 254, 0.693);
+    border-radius: 50%;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}

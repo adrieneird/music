@@ -1,0 +1,47 @@
+div#marlene #grid {
+    display: grid;
+    grid-template-columns: repeat(32, 1fr);
+    grid-template-rows: repeat(15, 1fr);
+}
+
+div#marlene #grid .carre {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+}
+
+div#marlene #grid .noir {
+    background-color: noir;
+}
+
+div#marlene #grid .bleu {
+    background-color: #c7bca0;
+}
+
+div#marlene #grid .bleuciel {
+    background-color: #ebe0c0;
+}
+
+div#marlene #grid .fonce {
+    background-color: #797365;
+}
+
+div#marlene #grid .noir {
+    background-color: #000;
+}
+
+div#marlene #grid .marron{
+    background-color: #655b5e;
+}
+
+div#marlene #grid .rouge{
+    background-color: #9f3a43;
+}
+
+div#marlene #grid .blanc{
+    background-color: #fff;
+}
+
+div#marlene #grid .argent{
+    background-color: #c0c0c0;
+}

@@ -1,0 +1,32 @@
+#selena_dots{
+    width: 416px;
+    display:grid;
+    grid-template-columns: repeat(38, 1fr);
+    grid-template-rows: repeat(149, 1fr);
+    gap: 1px;
+  }
+  
+  #selena_dots>div {
+    height: 10px;
+    width: 10px;
+    background-color: black;
+    border-radius: 50%;
+  }
+  
+  #selena_dots>.peach {
+    background-color: #FDF5C4;
+  }
+  
+  #selena_dots>.tulip {
+    background-color: #E53269;
+  }
+  
+  #selena_dots>.branch {
+    background-color: #87FF8E;
+  }
+  
+  #selena_dots>.cream {
+    background-color: #D5FFFF;
+  }
+  #selena_dots>.branch2{
+  background-color: #6ECE00}
